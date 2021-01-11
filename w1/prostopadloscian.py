@@ -1,0 +1,10 @@
+print("To jest program do obliczania objetosci prostopoadloscianu :)")
+print("Podaj dlugosc pierwszej krawedzi podstawy: ")
+a = float(input())
+print("Podaj dlugosc dlugiej krawedzi podstawy: ")
+b = float(input())
+print("Podaj wysokosc prostopadloscianu: ")
+c = float(input())
+objetosc = a * b * c
+print("Objetosc prostopadłoscianu wynosi: ")
+print(objetosc)
